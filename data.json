@@ -1,0 +1,266 @@
+[
+    {
+        "Item": "Shick",
+        "Unit Price": 25.0,
+        "Qty": 5,
+        "Total": 125.0
+    },
+    {
+        "Item": "Keroshin ",
+        "Unit Price": 75.0,
+        "Qty": 1,
+        "Total": 75.0
+    },
+    {
+        "Item": "Koyla (1kg)",
+        "Unit Price": 70.0,
+        "Qty": 2,
+        "Total": 140.0
+    },
+    {
+        "Item": "Brush ",
+        "Unit Price": 120.0,
+        "Qty": 1,
+        "Total": 120.0
+    },
+    {
+        "Item": "Jali ",
+        "Unit Price": 100.0,
+        "Qty": 1,
+        "Total": 100.0
+    },
+    {
+        "Item": "Hanger ",
+        "Unit Price": 60.0,
+        "Qty": 1,
+        "Total": 60.0
+    },
+    {
+        "Item": "Chicks",
+        "Unit Price": 300.0,
+        "Qty": 3,
+        "Total": 900.0
+    },
+    {
+        "Item": "Chanachur ",
+        "Unit Price": 50.0,
+        "Qty": 2,
+        "Total": 100.0
+    },
+    {
+        "Item": "Tok doi",
+        "Unit Price": 40.0,
+        "Qty": 1,
+        "Total": 40.0
+    },
+    {
+        "Item": "Sauce - tomato",
+        "Unit Price": 125.0,
+        "Qty": 1,
+        "Total": 125.0
+    },
+    {
+        "Item": "Sauce - BBQ",
+        "Unit Price": 150.0,
+        "Qty": 1,
+        "Total": 150.0
+    },
+    {
+        "Item": "Porota ",
+        "Unit Price": 0.0,
+        "Qty": 1,
+        "Total": 0.0
+    },
+    {
+        "Item": "One-time plate glass",
+        "Unit Price": 50.0,
+        "Qty": 1,
+        "Total": 50.0
+    },
+    {
+        "Item": "Fire utility",
+        "Unit Price": 50.0,
+        "Qty": 1,
+        "Total": 50.0
+    },
+    {
+        "Item": "Cucumber ",
+        "Unit Price": 120.0,
+        "Qty": 1,
+        "Total": 120.0
+    },
+    {
+        "Item": "Tomato ",
+        "Unit Price": 75.0,
+        "Qty": 1,
+        "Total": 75.0
+    },
+    {
+        "Item": "Lemon",
+        "Unit Price": 30.0,
+        "Qty": 1,
+        "Total": 30.0
+    },
+    {
+        "Item": "Green Chili",
+        "Unit Price": 20.0,
+        "Qty": 1,
+        "Total": 20.0
+    },
+    {
+        "Item": "Glass plastic",
+        "Unit Price": 20.0,
+        "Qty": 1,
+        "Total": 20.0
+    },
+    {
+        "Item": "Muri ",
+        "Unit Price": 45.0,
+        "Qty": 1,
+        "Total": 45.0
+    },
+    {
+        "Item": "RedBull ",
+        "Unit Price": 40.0,
+        "Qty": 4,
+        "Total": 160.0
+    },
+    {
+        "Item": "3 in 1 Nescafe",
+        "Unit Price": 10.0,
+        "Qty": 5,
+        "Total": 50.0
+    },
+    {
+        "Item": "Shick",
+        "Unit Price": 25.0,
+        "Qty": 5,
+        "Total": 125.0
+    },
+    {
+        "Item": "Keroshin ",
+        "Unit Price": 75.0,
+        "Qty": 1,
+        "Total": 75.0
+    },
+    {
+        "Item": "Koyla (1kg)",
+        "Unit Price": 70.0,
+        "Qty": 2,
+        "Total": 140.0
+    },
+    {
+        "Item": "Brush ",
+        "Unit Price": 120.0,
+        "Qty": 1,
+        "Total": 120.0
+    },
+    {
+        "Item": "Jali ",
+        "Unit Price": 100.0,
+        "Qty": 1,
+        "Total": 100.0
+    },
+    {
+        "Item": "Hanger ",
+        "Unit Price": 60.0,
+        "Qty": 1,
+        "Total": 60.0
+    },
+    {
+        "Item": "Chicks",
+        "Unit Price": 300.0,
+        "Qty": 3,
+        "Total": 900.0
+    },
+    {
+        "Item": "Chanachur ",
+        "Unit Price": 50.0,
+        "Qty": 2,
+        "Total": 100.0
+    },
+    {
+        "Item": "Tok doi",
+        "Unit Price": 40.0,
+        "Qty": 1,
+        "Total": 40.0
+    },
+    {
+        "Item": "Sauce - tomato",
+        "Unit Price": 125.0,
+        "Qty": 1,
+        "Total": 125.0
+    },
+    {
+        "Item": "Sauce - BBQ",
+        "Unit Price": 150.0,
+        "Qty": 1,
+        "Total": 150.0
+    },
+    {
+        "Item": "Porota ",
+        "Unit Price": 0.0,
+        "Qty": 1,
+        "Total": 0.0
+    },
+    {
+        "Item": "One-time plate glass",
+        "Unit Price": 50.0,
+        "Qty": 1,
+        "Total": 50.0
+    },
+    {
+        "Item": "Fire utility",
+        "Unit Price": 50.0,
+        "Qty": 1,
+        "Total": 50.0
+    },
+    {
+        "Item": "Cucumber ",
+        "Unit Price": 120.0,
+        "Qty": 1,
+        "Total": 120.0
+    },
+    {
+        "Item": "Tomato ",
+        "Unit Price": 75.0,
+        "Qty": 1,
+        "Total": 75.0
+    },
+    {
+        "Item": "Lemon",
+        "Unit Price": 30.0,
+        "Qty": 1,
+        "Total": 30.0
+    },
+    {
+        "Item": "Green Chili",
+        "Unit Price": 20.0,
+        "Qty": 1,
+        "Total": 20.0
+    },
+    {
+        "Item": "Glass plastic",
+        "Unit Price": 20.0,
+        "Qty": 1,
+        "Total": 20.0
+    },
+    {
+        "Item": "Muri ",
+        "Unit Price": 45.0,
+        "Qty": 1,
+        "Total": 45.0
+    },
+    {
+        "Item": "RedBull ",
+        "Unit Price": 40.0,
+        "Qty": 4,
+        "Total": 160.0
+    },
+    {
+        "Item": "3 in 1 Nescafe",
+        "Unit Price": 10.0,
+        "Qty": 5,
+        "Total": 50.0
+    }
+]
